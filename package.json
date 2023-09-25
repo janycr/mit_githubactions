@@ -1,0 +1,20 @@
+{
+  "name": "githubactions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janycr/mit_githubactions"
+  },
+  "author": "Alejandro Valverde",
+  "license": "MIT",
+  "homepage": "https://github.com/kogsio/littletiers#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^26.6.1"
+  }
+}
